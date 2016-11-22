@@ -1,3 +1,7 @@
+/*
+ *  Author: Wajdi Bazuhair
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
